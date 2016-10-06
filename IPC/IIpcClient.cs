@@ -1,6 +1,6 @@
 ﻿using System.ServiceModel;
 
-namespace FirstTestNetNamedPipeServer
+namespace IPC
 {
     [ServiceContract]
     public interface IIpcClient

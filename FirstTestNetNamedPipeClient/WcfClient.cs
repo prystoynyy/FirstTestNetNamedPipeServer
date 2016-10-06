@@ -1,4 +1,5 @@
 ﻿using System.ServiceModel;
+using IPC;
 
 namespace FirstTestNetNamedPipeClient
 {

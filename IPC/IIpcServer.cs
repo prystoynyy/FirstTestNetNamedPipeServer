@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Diagnostics;
 
-namespace FirstTestNetNamedPipeServer
+namespace IPC
 {
     public interface IIpcServer : IDisposable
     {
